@@ -24,4 +24,5 @@ group :development, :test do
   gem 'pry'
   gem 'pry-byebug'
   gem 'rspec-rails'
+  gem 'factory_girl_rails'
 end

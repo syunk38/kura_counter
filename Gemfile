@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby "2.2.3"
+ruby '2.2.3'
 
 gem 'rails', '4.2.5'
 
@@ -23,5 +23,5 @@ group :development, :test do
   gem 'better_errors'
   gem 'pry'
   gem 'pry-byebug'
-  gem "rspec-rails"
+  gem 'rspec-rails'
 end

@@ -16,6 +16,7 @@ gem 'bootstrap-form'
 gem 'uglifier'
 
 group :development, :test do
+  gem 'rb-readline'
   gem 'byebug'
   gem 'web-console', '~> 2.0'
   gem 'spring'
@@ -25,4 +26,5 @@ group :development, :test do
   gem 'pry-byebug'
   gem 'rspec-rails'
   gem 'factory_girl_rails'
+  gem 'nokogiri'
 end
